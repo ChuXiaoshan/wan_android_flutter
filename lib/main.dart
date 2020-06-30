@@ -3,7 +3,7 @@ import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
-import 'src/home_page.dart';
+import 'src/main_page.dart';
 
 void main() {
   runApp(MyApp());
